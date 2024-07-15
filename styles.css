@@ -1,0 +1,1298 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+#toggle {
+    display: none;
+
+}
+label {
+    display: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    background-color: #F5E5DD;
+    padding: 3rem;
+
+}
+.btnGrp {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+
+ 
+}
+.btnName {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.2rem;
+
+}
+.btnName h4 {
+    border: 1px solid 
+    #A0522D;
+    padding: .4rem;
+}
+.btnIcon  {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 2.5rem;
+
+}
+.btnIcon i {
+    border: 1px solid 
+    #A0522D;
+    padding: .5rem 1rem;
+}
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5rem;
+}
+.contentBox {
+
+    width: fill (541px);
+    height: fixed (336px);
+    padding: 8px;
+    gap: 16px;
+}
+.contentBox h2 {
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 400;
+}
+.contentBox p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+    color: #000000;
+}
+button {
+    background-color: 
+    #A0522D;
+    padding: .8rem 1rem;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    margin-top: 1rem;
+ 
+    gap: 8px;
+    border-radius: 8px;
+}
+button i {
+    margin-left: .4rem;
+}
+.contentImg {
+
+    padding: 8px;
+    margin-bottom: 2rem;
+    overflow: hidden;
+}
+.contentImg h2 {
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+.contImage img {
+    border-radius: 15px;
+    margin-top: 1.5rem;
+    height: 351px;
+    width: 483px;
+
+}
+.contImage{
+    display: flex;
+    overflow: hidden;
+    gap: 16px;
+}
+.brand {
+    border: 1px solid #bf8872;
+    display: grid;
+    padding: 1rem;
+    gap: 16px;
+    left: 40px;
+    top: 587px;
+    width: 1690px;
+    height: 206.29px;
+    margin: auto;
+
+}
+.brand h3 {
+    
+    font-size: 24px;
+    line-height: 18.8px;
+    color: #000000;
+}
+.logo {
+    display: flex;
+    overflow: hidden;
+}
+.logo img {
+    height: 145px;
+ 
+}
+.sectionTwo {
+
+    padding-top: 3rem;
+    background-color: #fafafa;
+}
+.sectionTwo h3:nth-child(1) {
+ 
+    border:  1px solid #723a20;
+    width: 93px;
+    height: 35px;
+    color: #A0522D;
+    padding: 8px;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 19.2px;
+    margin-left: 55rem;
+    text-align: center;
+}
+.select {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem
+   
+    
+
+}
+.select h4 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 19.2px;
+    color: #000000;
+}
+.select p {
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 24px;
+    
+}
+
+.firstCon {
+    display: flex;
+    gap: 2rem;
+    padding: 5rem;
+    
+
+
+}
+.sneakerIndivid {
+ 
+    
+    display: grid;
+    overflow: hidden;
+    position: relative;
+  
+    
+}
+.sneakerIndivid img {
+    border-radius: 10px;
+    height: 295px;
+    width:317px;
+    
+    
+}
+.percent {
+    background-color: #bf8872;
+    position: absolute;
+    margin-left: 16rem;
+    margin-top: 1rem;
+    color: white;
+    padding: .7rem .1rem;
+    border-radius: 16px;
+    border: 1px solid #a0522d ;
+    font-size: 1rem;
+    font-weight: 600;
+
+}
+.sneakerIndivid .hover {
+
+    position: absolute;
+    height: 160px;
+    width: 67px;
+    margin-top: 8rem;
+    margin-left: 14rem;
+  
+}
+.rating {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+.rating h2 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.8px;
+}
+.rating h4 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 16px;
+}
+.rating i {
+    margin-right: .2rem;
+}
+.sectionThree {
+
+    padding-top: 3rem;
+}
+.sectionThree h3 {
+     
+    border:  1px solid #723a20;
+    width: 180px;
+  
+    color: #A0522D;
+    padding: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 19.2px;
+    margin-left: 52rem;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+.designContainer {
+    display: flex;
+
+    padding: 4rem;
+    gap: 16px;
+}
+.desFirst img {
+    margin-left: 1rem;
+
+}
+.exThree {
+    margin-top: 1.3rem;
+}
+.exSeven {
+    margin-top: 1.3rem;
+}
+
+
+
+.sectionFour {
+
+    padding-top: 3rem;
+    background-color: #fafafa;
+}
+.sectionFour h3:nth-child(1) {
+    border:  1px solid #723a20;
+    width: 93px;
+    height: 35px;
+    color: #A0522D;
+    padding: 8px;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 19.2px;
+    margin-left: 55rem;
+    text-align: center;
+}
+.bootSelect {
+    display: flex;
+    justify-content: space-between;
+    padding: 4rem;
+    
+
+}
+.bootSelect h4 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 19.2px;
+    color: #000000;
+}
+.bootSelect p {
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 24px;
+    
+}
+.bootContainer {
+    display: grid;
+}
+.bootCon {
+
+    display: flex;
+    gap: 2rem;
+    padding: 5rem;
+    
+
+    
+
+}
+.bootIndivid {
+
+    
+    display: grid;
+    overflow: hidden;
+    position: relative;
+  
+    
+}
+.bootIndivid img {
+    border-radius: 10px;
+    height: 295px;
+    width:317px;
+    
+    
+}
+
+.bootIndivid .hover {
+
+    position: absolute;
+    height: 160px;
+    width: 67px;
+    margin-top: 8rem;
+    margin-left: 14rem;
+  
+}
+.bootrating {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+.bootrating h2 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28.8px;
+}
+.bootrating h4 {
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 16px;
+}
+.bootrating i {
+    margin-right: .2rem;
+}
+.sectionFive {
+
+    padding-top: 3rem;
+}
+.sectionFive h3 {
+    border:  1px solid #723a20;
+    width: 170px;
+    height: 35px;
+    color: #A0522D;
+    padding: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 19.2px;
+    margin-left: 53rem;
+    text-align: center;
+}
+.kidsImage {
+    display: flex;
+    gap: 2rem;
+    padding: 4rem;
+    
+}
+.kidsImage img {
+    width: 840px;
+    height: 431px;
+}
+.sectionSix {
+
+    display: flex;
+    padding: 4rem;
+    gap: 4rem;
+}
+.communityContainer {
+
+    display: flex;
+    width: 813px;
+    height: 300px;
+    justify-content: space-between;
+}
+.communityImg img {
+    width: 390px;
+    height: 250px;
+}
+.communityText {
+    margin-top: 5rem;
+}
+.communityText h2 {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.communityText p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+.communityContainer p button {
+    margin-top: 8rem;
+    margin-right: 3rem;
+}
+
+.contactInfo h2 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-left: .8rem;
+}
+.putInput {
+
+    display: grid;
+    gap: 1.5rem;
+    margin-top: .8rem;
+}
+.contactInfo input {
+     display: flex;
+     width: 820px;
+     height: 40px;
+     border-radius: 5px;
+     border: 1.5px solid;
+     padding: .8rem;
+
+  
+
+     
+     
+}
+
+.contactInfo ::placeholder {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #000000;
+   
+}
+.infoContainer button {
+    margin-top: 2rem;
+    margin-left: 44rem;
+   
+}
+.sectionSeven {
+    display: grid;
+
+}
+.deliveryContainer {
+    display: flex;
+    justify-content: center;
+    gap: 13rem;
+}
+.deliveryIndivid {
+    display: grid;
+    gap: 1rem;
+}
+.deliveryIndivid img {
+    height: 50px;
+}
+.deliveryIndivid h3 {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 30px;
+}
+
+
+.deliveryIndivid p {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+.back {
+
+    display: flex;
+
+    align-self: center;
+    width: 200px;
+    margin: auto;
+    margin-top: 5rem;
+
+ 
+}
+.back h4 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.deliveryContainer h3 {
+    display: flex;
+    align-items: center;
+}
+footer {
+
+    display: grid;
+    padding: 4rem;
+    background-color: #F5E5DD;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.footerTop {
+    display: flex;
+    gap: 30rem;
+}
+
+.footerIndivid div {
+    display: grid;
+    gap: 1rem;
+    margin-top: .8rem;
+}
+.footerIndivid h2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+.footerIndivid p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+}
+.afterFooter{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f6eeea;
+    height: 40px;
+
+}
+.afterFooter div {
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+}
+.afterFooter h2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+.afterFooter p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+
+
+
+@media (max-width: 600px) {
+
+    header {
+        width: 100%;
+        z-index: 1;
+  
+        gap: 1rem;
+    
+        background-color: white;
+        padding: 1rem;
+    }
+    label {
+        display: block;
+        font-size: 2rem;
+        margin-left: 14rem;
+        
+    }
+
+
+    .btnGrp {
+
+  
+        
+        
+        padding: 1.8rem;
+        display: none;
+        position: absolute;
+        margin-top: 70px;
+      
+        width: 60%;
+        top: 4rem;
+        
+        z-index: 1;
+        background-color: white;
+        opacity: 0.97;
+        border-top: 4px solid  black;
+        border-bottom: 4px solid black;
+        position: absolute;
+        transform: translate(100%, 0);
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+    
+     
+    }
+    #toggle:checked + .btnGrp {
+        display: block;
+        transform: none;
+    }
+    
+    .btnName {
+    
+        gap: 1rem;
+        font-size: .8rem;
+        display: flex;
+        flex-direction: column;
+    
+
+    
+    }
+    .btnName h4 {
+        border: 1px solid 
+        #A0522D;
+        padding: .2rem;
+        width: 28%;
+        cursor: pointer;
+        
+    }
+    .btnIcon  {
+        display: grid;
+        width: 28%;
+        margin-top: 1rem;
+        gap: 1rem;
+        font-size: 1.3rem;
+    
+    }
+    .btnIcon i {
+        border: 1px solid 
+        #A0522D;
+        padding: .3rem .7rem;
+        cursor: pointer;
+    }
+
+    .hero-section {
+        display: grid;
+    
+        background-color: white;
+        padding: 1rem;
+    }
+    .contentBox {
+    
+        width:  370px;
+        height:  136px;
+        padding: 8px;
+        gap: 16px;
+        
+    }
+    .contentBox h2 {
+        font-size: 27px;
+        line-height: 40px;
+        font-weight: 400;
+    }
+    .contentBox p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        color: #000000;
+    }
+    .explore {
+        display: none;
+
+    }
+
+    .contentImg {
+    
+        padding: 8px;
+        margin-bottom: 2rem;
+        overflow: hidden;
+    }
+    .contentImg h2 {
+        font-size: 23px;
+        font-weight: 700;
+        text-align: center;
+        color: #A0522D;
+    }
+    .contImage img {
+        border-radius: 15px;
+        margin-top: 1.5rem;
+        height:221px;
+        width: 265px;
+    }
+    .contImage{
+        display: flex;
+        overflow: hidden;
+        gap: 16px;
+    }
+    .brand {
+        border: 1px solid #bf8872;
+    
+        padding: 1rem;
+        gap: 4px;
+        left: 40px;
+        top: 430px;
+        width: 374px;
+        height: 105.29px;
+       
+    
+    }
+    .brand h3 {
+        font-weight: 700;
+        
+        font-size: 16px;
+        line-height: 16.8px;
+        color: #000000;
+    }
+    .logo {
+        display: flex;
+        overflow: hidden;
+        gap: 4px;
+    }
+    .logo img {
+        height: 53px;
+     
+    }
+
+    .sectionTwo {
+
+        padding-top: 3rem;
+        background-color: #fafafa;
+    }
+    .sectionTwo h3:nth-child(1) {
+     
+        border:  1px solid #723a20;
+        width: 93px;
+        height: 35px;
+        color: #A0522D;
+        padding: 5px;
+        font-weight: 600;
+        font-size: 1rem;
+        
+        line-height: 19.2px;
+        margin-left: 10rem;
+        text-align: center;
+    }
+    .select {
+        display: flex;
+        justify-content: space-between;
+        padding: 2.5rem;
+    
+    }
+    .select h4 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16.2px;
+        color: #000000;
+    }
+    .select p {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 18px;
+        color: #A0522D;
+        
+    }
+
+    .firstCon {
+        display: flex;
+        gap: .4rem;
+        padding: 2rem;
+        
+    
+    
+    }
+    .sneakerIndivid {
+     
+        
+        display: grid;
+
+        position: relative;
+     
+      
+        
+    }
+    .sneakerIndivid:nth-child(4) {
+        display: none;
+    }
+    .sneakerIndivid:nth-child(5) {
+        display: none;
+    }
+    .sneakerIndivid img {
+        border-radius: 10px;
+        height: 100px;
+        width: 105px;
+        
+        
+    }
+    .percent {
+        display: none;
+
+    
+    }
+    .sneakerIndivid .hover {
+        display: none;
+    
+
+      
+    }
+    .rating {
+        display: flex;
+        align-items: center;
+    
+        margin-top: 1rem;
+    }
+    .rating h2 {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 18.8px;
+    }
+    .rating h4 {
+        font-weight: 500;
+        font-size: .5rem;
+        line-height: 13px;
+        margin-right: 1rem;
+    }
+    .sneakerIndivid div p {
+        font-weight:500;
+        font-size: .7rem;
+    }
+    .rating i {
+        margin-right: .2rem;
+    }
+
+
+
+    .sectionThree {
+
+        padding-top: 3rem;
+    }
+    .sectionThree h3 {
+         
+        border:  1px solid #723a20;
+        width: 180px;
+      
+        color: #A0522D;
+        padding: 6px;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19.2px;
+        margin-left: 7rem;
+        text-align: center;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .designContainer {
+        display: flex;
+    
+        padding: 2rem;
+        gap: 8px;
+    }
+    .desFirst img {
+        margin-left: .2rem;
+    }
+    .desFirst .ward {
+        display: none;
+    }
+    .desFirst .sock {
+        height: 169px;
+        width: 74px;
+
+    }
+    .exThree img {
+        height: 74px;
+        width: 75px;
+    }
+    .designContainer .straw {
+        width: 163px;
+        height: 249px;
+    }
+    .exSeven img {
+        height: 74px;
+        width: 75px;
+    }
+
+    .exThree {
+        margin-top: .2rem;
+    }
+    .exSeven {
+        margin-top: .2rem;
+    }
+
+
+
+    .sectionFour {
+
+        padding-top: 3rem;
+        background-color: #fafafa;
+    }
+    .sectionFour h3:nth-child(1) {
+     
+        border:  1px solid #723a20;
+        width: 70px;
+        height: 35px;
+        color: #A0522D;
+        padding: 5px;
+        font-weight: 600;
+        font-size: 1rem;
+        line-height: 19.2px;
+        margin-left: 10rem;
+        text-align: center;
+    }
+    .bootSelect {
+        display: flex;
+        justify-content: space-between;
+        padding: 2.5rem;
+    
+    }
+    .bootSelect h4 {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16.2px;
+        color: #000000;
+    }
+    .bootSelect p {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 18px;
+        color: #A0522D;
+        
+    }
+
+    .bootCon {
+        display: flex;
+        gap: .4rem;
+        padding: 2rem;
+        
+    
+    
+    }
+    .bootIndivid {
+     
+        
+        display: grid;
+
+        position: relative;
+     
+      
+        
+    }
+    .bootIndivid:nth-child(4) {
+        display: none;
+    }
+    .bootIndivid:nth-child(5) {
+        display: none;
+    }
+    .bootIndivid img {
+        border-radius: 10px;
+        height: 100px;
+        width: 105px;
+        
+        
+    }
+    .percent {
+        display: none;
+
+    
+    }
+    .bootIndivid .hover {
+        display: none;
+    
+
+      
+    }
+    .bootrating {
+        display: flex;
+        align-items: center;
+    
+        margin-top: 1rem;
+    }
+    .bootrating h2 {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 18.8px;
+    }
+    .bootrating h4 {
+        font-weight: 500;
+        font-size: .5rem;
+        line-height: 13px;
+        margin-right: 1rem;
+    }
+    .bootIndivid div p {
+        font-weight:500;
+        font-size: .7rem;
+    }
+    .bootrating i {
+        margin-right: .2rem;
+    }
+
+
+
+
+    .sectionFive {
+
+        padding-top: 3rem;
+    }
+    .sectionFive h3 {
+        border:  1px solid #723a20;
+        width: 140px;
+        height: 35px;
+        color: #A0522D;
+        padding: 5px;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19.2px;
+        margin-left: 8rem;
+        text-align: center;
+    }
+    .kidsImage {
+        display: grid;
+        gap: 1rem;
+        padding: 2rem;
+        
+    }
+    .kidsImage img {
+        width: 320px;
+        height: 197px;
+    }
+
+
+    .sectionSix {
+
+        display: grid;
+        padding: 2rem;
+        gap: 4rem;
+    }
+    .communityContainer {
+    
+        display: flex;
+        gap: .6rem;
+        
+        width: 320px;
+        height: 150px;
+        justify-content: space-between;
+    }
+    .communityImg img {
+        width: 130px;
+        height: 120px;
+    }
+    .communityText {
+        margin-top: 2.5rem;
+     
+    }
+    .communityText h2 {
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 23px;
+    }
+    .communityText p {
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+
+    .contactInfo h2 {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 36px;
+        margin-left: .8rem;
+    }
+    .putInput {
+    
+        display: grid;
+        gap: 1.5rem;
+        margin-top: .8rem;
+    }
+    .contactInfo input {
+         display: flex;
+         width: 330px;
+         height: 40px;
+         border-radius: 5px;
+         border: 1.5px solid;
+         padding: .8rem;
+    
+      
+    
+         
+         
+    }
+    
+    .contactInfo ::placeholder {
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 24px;
+        color: #000000;
+       
+    }
+    .infoContainer button {
+        margin-top: 2rem;
+        margin-left: 0rem;
+        padding-inline: 8.3rem;
+        padding-block: 6px;
+        border-radius: 50px;
+       
+    }
+
+
+    .sectionSeven {
+        display: grid;
+        padding: 2rem;
+    
+    }
+    .deliveryContainer {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+    .deliveryIndivid {
+        display: grid;
+        gap: 7px;
+    }
+    .deliveryIndivid img {
+        height: 20px;
+   }
+
+    .deliveryIndivid h3 {
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    
+    
+    .deliveryIndivid p {
+        font-weight: 600;
+        font-size: 8.7px;
+        line-height: 14px;
+    }
+    .back {
+    
+        display: flex;
+    
+        align-self: center;
+        width: 200px;
+        margin: auto;
+        margin-top: 1rem;
+        margin-left: 7rem;
+    
+     
+    }
+    .back h4 {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 24px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .deliveryContainer h3 {
+        display: flex;
+        align-items: center;
+    }
+
+
+
+    footer {
+
+        display: grid;
+     
+        background-color: #F5E5DD;
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+    .footerTop {
+        display: flex;
+        gap: 3rem;
+        
+    }
+    
+    .footerIndivid div {
+        display: grid;
+        gap: .2rem;
+        margin-top: .8rem;
+    }
+    .footerIndivid h2 {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 14px;
+    
+    }
+    .footerIndivid p {
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+    }
+    .afterFooter{
+        display: flex;
+        justify-content: center;
+        gap: 4rem;
+        background-color: #F5E5DD;
+        height: 40px;
+        width: 300px;
+    
+    }
+    .afterFooter div {
+        display: flex;
+        align-items: center;
+        gap: .8rem;
+    }
+    .afterFooter h2 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .afterFooter p {
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 10px;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
