@@ -18,6 +18,7 @@ header {
 
     background-color: #F5E5DD;
     padding: 3rem;
+ 
 
 }
 .btnGrp {
@@ -26,6 +27,7 @@ header {
     justify-content: space-between;
     align-items: center;
     width: 90%;
+    
 
  
 }
@@ -56,13 +58,14 @@ header {
     justify-content: space-between;
     background-color: white;
     padding: 5rem;
+
 }
 .contentBox {
 
-    width: fill (541px);
-    height: fixed (336px);
+   
     padding: 8px;
     gap: 16px;
+
 }
 .contentBox h2 {
     font-size: 36px;
@@ -95,6 +98,7 @@ button i {
     padding: 8px;
     margin-bottom: 2rem;
     overflow: hidden;
+
 }
 .contentImg h2 {
     font-size: 30px;
@@ -116,13 +120,13 @@ button i {
 .brand {
     border: 1px solid #bf8872;
     display: grid;
-    padding: 1rem;
+    padding: 3.5rem;
     gap: 16px;
     left: 40px;
     top: 587px;
-    width: 1690px;
-    height: 206.29px;
-    margin: auto;
+ 
+    
+
 
 }
 .brand h3 {
@@ -136,13 +140,13 @@ button i {
     overflow: hidden;
 }
 .logo img {
-    height: 145px;
+    height: 153px;
  
 }
 .sectionTwo {
 
     padding-top: 3rem;
-    background-color: #fafafa;
+
 }
 .sectionTwo h3:nth-child(1) {
  
@@ -160,7 +164,8 @@ button i {
 .select {
     display: flex;
     justify-content: space-between;
-    padding: 4rem
+    padding: 4rem;
+  
    
     
 
@@ -182,6 +187,7 @@ button i {
     display: flex;
     gap: 2rem;
     padding: 5rem;
+
     
 
 
@@ -192,6 +198,7 @@ button i {
     display: grid;
     overflow: hidden;
     position: relative;
+    
   
     
 }
@@ -238,6 +245,7 @@ button i {
     font-weight: 600;
     font-size: 1rem;
     line-height: 16px;
+    margin-right: .8rem;
 }
 .rating i {
     margin-right: .2rem;
@@ -245,6 +253,7 @@ button i {
 .sectionThree {
 
     padding-top: 3rem;
+
 }
 .sectionThree h3 {
      
@@ -274,6 +283,7 @@ button i {
 
     padding: 4rem;
     gap: 16px;
+
 }
 .desFirst img {
     margin-left: 1rem;
@@ -286,14 +296,14 @@ button i {
     margin-top: 1.3rem;
 }
 
-
-
 .sectionFour {
 
     padding-top: 3rem;
-    background-color: #fafafa;
+
+
 }
 .sectionFour h3:nth-child(1) {
+ 
     border:  1px solid #723a20;
     width: 93px;
     height: 35px;
@@ -304,11 +314,15 @@ button i {
     line-height: 19.2px;
     margin-left: 55rem;
     text-align: center;
+
 }
 .bootSelect {
     display: flex;
     justify-content: space-between;
     padding: 4rem;
+ 
+  
+   
     
 
 }
@@ -324,17 +338,15 @@ button i {
     line-height: 24px;
     
 }
-.bootContainer {
-    display: grid;
-}
-.bootCon {
 
+.bootCon {
     display: flex;
     gap: 2rem;
     padding: 5rem;
-    
+ 
 
     
+
 
 }
 .bootIndivid {
@@ -343,6 +355,7 @@ button i {
     display: grid;
     overflow: hidden;
     position: relative;
+    
   
     
 }
@@ -353,7 +366,6 @@ button i {
     
     
 }
-
 .bootIndivid .hover {
 
     position: absolute;
@@ -367,6 +379,7 @@ button i {
     display: flex;
     justify-content: space-between;
     margin-top: 1rem;
+ 
 }
 .bootrating h2 {
     font-weight: 600;
@@ -377,13 +390,41 @@ button i {
     font-weight: 600;
     font-size: 1rem;
     line-height: 16px;
+    margin-right: .8rem;
 }
 .bootrating i {
     margin-right: .2rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .sectionFive {
 
     padding-top: 3rem;
+
 }
 .sectionFive h3 {
     border:  1px solid #723a20;
@@ -412,6 +453,7 @@ button i {
     display: flex;
     padding: 4rem;
     gap: 4rem;
+
 }
 .communityContainer {
 
@@ -419,6 +461,7 @@ button i {
     width: 813px;
     height: 300px;
     justify-content: space-between;
+ 
 }
 .communityImg img {
     width: 390px;
@@ -426,6 +469,7 @@ button i {
 }
 .communityText {
     margin-top: 5rem;
+    
 }
 .communityText h2 {
     font-size: 17px;
@@ -441,6 +485,8 @@ button i {
     margin-top: 8rem;
     margin-right: 3rem;
 }
+
+
 
 .contactInfo h2 {
     font-size: 22px;
@@ -483,11 +529,13 @@ button i {
 .sectionSeven {
     display: grid;
 
+
 }
 .deliveryContainer {
     display: flex;
     justify-content: center;
     gap: 13rem;
+
 }
 .deliveryIndivid {
     display: grid;
@@ -548,10 +596,12 @@ footer {
     background-color: #F5E5DD;
     gap: 2rem;
     margin-top: 2rem;
+
 }
 .footerTop {
     display: flex;
     gap: 30rem;
+
 }
 
 .footerIndivid div {
@@ -578,6 +628,7 @@ footer {
     background-color: #f6eeea;
     height: 40px;
 
+
 }
 .afterFooter div {
     display: flex;
@@ -599,7 +650,7 @@ footer {
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 
     header {
         width: 100%;
@@ -608,7 +659,7 @@ footer {
         gap: 1rem;
     
         background-color: white;
-        padding: 1rem;
+        padding: 1.5rem;
     }
     label {
         display: block;
@@ -619,28 +670,20 @@ footer {
 
 
     .btnGrp {
-
-  
-        
-        
         padding: 1.8rem;
         display: none;
-        position: absolute;
         margin-top: 70px;
-      
         width: 60%;
         top: 4rem;
-        
         z-index: 1;
         background-color: white;
         opacity: 0.97;
-        border-top: 4px solid  black;
-        border-bottom: 4px solid black;
+        border-top: 4px solid  #723a20;
+        border-bottom: 4px solid  #723a20;
         position: absolute;
         transform: translate(100%, 0);
         transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
-    
-     
+
     }
     #toggle:checked + .btnGrp {
         display: block;
@@ -688,20 +731,19 @@ footer {
     }
     .contentBox {
     
-        width:  370px;
-        height:  136px;
+    
         padding: 8px;
         gap: 16px;
         
     }
     .contentBox h2 {
-        font-size: 27px;
+        font-size: 26px;
         line-height: 40px;
         font-weight: 400;
     }
     .contentBox p {
         font-weight: 400;
-        font-size: 14px;
+        font-size: 15px;
         line-height: 18px;
         color: #000000;
     }
@@ -736,12 +778,11 @@ footer {
     .brand {
         border: 1px solid #bf8872;
     
-        padding: 1rem;
+        padding: 1.5rem;
         gap: 4px;
         left: 40px;
         top: 430px;
-        width: 374px;
-        height: 105.29px;
+     
        
     
     }
@@ -778,7 +819,7 @@ footer {
         font-size: 1rem;
         
         line-height: 19.2px;
-        margin-left: 10rem;
+        margin-left: 9rem;
         text-align: center;
     }
     .select {
@@ -865,7 +906,7 @@ footer {
         font-size: .7rem;
     }
     .rating i {
-        margin-right: .2rem;
+        margin-right: 0rem;
     }
 
 
@@ -944,14 +985,15 @@ footer {
     .sectionFour h3:nth-child(1) {
      
         border:  1px solid #723a20;
-        width: 70px;
+        width: 93px;
         height: 35px;
         color: #A0522D;
         padding: 5px;
         font-weight: 600;
         font-size: 1rem;
+        
         line-height: 19.2px;
-        margin-left: 10rem;
+        margin-left: 9rem;
         text-align: center;
     }
     .bootSelect {
@@ -1005,11 +1047,7 @@ footer {
         
         
     }
-    .percent {
-        display: none;
-
     
-    }
     .bootIndivid .hover {
         display: none;
     
@@ -1038,8 +1076,9 @@ footer {
         font-size: .7rem;
     }
     .bootrating i {
-        margin-right: .2rem;
+        margin-right: 0rem;
     }
+
 
 
 
@@ -1075,7 +1114,7 @@ footer {
     .sectionSix {
 
         display: grid;
-        padding: 2rem;
+        padding: 1.5rem;
         gap: 4rem;
     }
     .communityContainer {
@@ -1083,7 +1122,7 @@ footer {
         display: flex;
         gap: .6rem;
         
-        width: 320px;
+        width: 340px;
         height: 150px;
         justify-content: space-between;
     }
@@ -1102,7 +1141,7 @@ footer {
     }
     .communityText p {
         font-weight: 400;
-        font-size: 10px;
+        font-size: 11px;
         line-height: 18px;
     }
 
@@ -1158,27 +1197,27 @@ footer {
     .deliveryContainer {
         display: flex;
         justify-content: center;
-        gap: 1rem;
+        gap: 2px;
     }
     .deliveryIndivid {
         display: grid;
-        gap: 7px;
+        gap: 5px;
     }
     .deliveryIndivid img {
-        height: 20px;
+        height: 19px;
    }
 
     .deliveryIndivid h3 {
         font-weight: 600;
-        font-size: 10px;
-        line-height: 20px;
+        font-size: 11px;
+        line-height: 8px;
     }
     
     
     .deliveryIndivid p {
         font-weight: 600;
-        font-size: 8.7px;
-        line-height: 14px;
+        font-size: 9px;
+        line-height: 10px;
     }
     .back {
     
@@ -1194,7 +1233,7 @@ footer {
     }
     .back h4 {
         font-weight: 500;
-        font-size: 10px;
+        font-size: 9px;
         line-height: 24px;
     
     }
@@ -1224,10 +1263,11 @@ footer {
         background-color: #F5E5DD;
         gap: 2rem;
         margin-top: 2rem;
+        padding: 2rem;
     }
     .footerTop {
         display: flex;
-        gap: 3rem;
+        gap: 1.5rem;
         
     }
     
@@ -1238,8 +1278,8 @@ footer {
     }
     .footerIndivid h2 {
         font-weight: 600;
-        font-size: 13px;
-        line-height: 14px;
+        font-size: 12px;
+        line-height: 10px;
     
     }
     .footerIndivid p {
@@ -1252,7 +1292,7 @@ footer {
     .afterFooter{
         display: flex;
         justify-content: center;
-        gap: 4rem;
+        gap: 1rem;
         background-color: #F5E5DD;
         height: 40px;
         width: 300px;
@@ -1265,7 +1305,7 @@ footer {
     }
     .afterFooter h2 {
         font-weight: 600;
-        font-size: 14px;
+        font-size: 12px;
         line-height: 14px;
     }
     .afterFooter p {
